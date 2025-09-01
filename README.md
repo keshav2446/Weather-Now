@@ -25,6 +25,8 @@ The app provides **real-time weather updates** with a **5-day forecast**, dynami
 
 ---
 
+Demo Video Link =>   https://drive.google.com/file/d/1TaaNk36edPQFdxXyf_pU3-_Q-WlO5BVa/view?usp=sharing
+
 ## 🧑‍💻 Installation
 
 1. Clone the repository  
