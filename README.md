@@ -1,2 +1,29 @@
-# Weather-Now
-eather Now App is a modern, responsive weather app built with React, TailwindCSS &amp; Framer Motion using the Open-Meteo API. It shows real-time temperature, feels-like, humidity, wind speed, and a 5-day forecast with dynamic backgrounds and smooth animations
+A modern, responsive weather application built with React (Vite), TailwindCSS, and Framer Motion, powered by the Open-Meteo API. The app provides real-time weather details along with a 5-day forecast in a clean, animated UI.
+
+🚀 Features
+
+🌍 Search weather by city (worldwide)
+
+🌡️ Current temperature & feels-like value
+
+💧 Humidity & 🌬 Wind speed
+
+🎨 Dynamic gradient backgrounds (Sunny, Cloudy, Rainy, Snowy)
+
+📅 5-Day forecast with min/max temperatures & weather icons
+
+⚡ Smooth animations (Framer Motion)
+
+📱 Fully responsive design (desktop + mobile)
+
+🛠 Tech Stack
+
+Frontend: React (Vite)
+
+Styling: TailwindCSS
+
+Animations: Framer Motion
+
+Icons: React-Icons (Weather Icons)
+
+API: Open-Meteo (Geocoding + Forecast)
