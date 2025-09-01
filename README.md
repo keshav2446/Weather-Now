@@ -27,3 +27,18 @@ Animations: Framer Motion
 Icons: React-Icons (Weather Icons)
 
 API: Open-Meteo (Geocoding + Forecast)
+
+Installation & Setup
+
+Clone the repository
+git clone https://github.com/<your-username>/weather-now.git
+cd weather-now
+
+Install dependencies
+npm install
+
+Run the development server
+npm run dev
+
+Build for production
+npm run build
